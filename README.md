@@ -100,7 +100,6 @@
 
 - 站点：<https://clash.le8.top>
 - 商务合作：站点页脚「商务合作」区块内提供邮箱
-- 搭建与运维文档（自建参考）：[`docs/运维与开发说明.md`](docs/运维与开发说明.md)
 
 ### 免责声明
 
@@ -217,7 +216,6 @@ with network conditions. The current number is shown on the site.
 
 - Site: <https://clash.le8.top>
 - Business contact: email provided in the site footer
-- Self-hosting / operations docs: [`docs/运维与开发说明.md`](docs/运维与开发说明.md)
 
 ### Disclaimer
 
